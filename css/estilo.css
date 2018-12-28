@@ -1,0 +1,52 @@
+.header{
+	font-family: 'Arvo', serif;
+}
+.font{
+	font-family: 'IM Fell French Canon SC', serif;
+}
+.lol{ 
+	font-family: 'Slabo 27px', serif;
+}
+.letra{
+	font-family: 'Smokum', cursive;
+}
+.texto{
+	font-family: 'Arvo', serif;
+}
+body{
+	background-color: #FFD1EA;
+}
+.xd{
+	font-family: 'Francois One', sans-serif;
+}
+.juan{
+	font-family: 'Special Elite', cursive;
+}
+.yeste{
+	font-family: 'Kaushan Script', cursive;
+}
+.sin_margen{
+	margin: 0 !important;
+}
+.nico{
+	font-family: 'Acme', sans-serif;
+}
+#logo
+{
+		width: 100%;
+	
+		 margin-top:10x;
+		  
+		  
+}
+.estirate{
+	width: 100%;
+	
+}
+.estirate div{
+	
+	width: 100% !important;
+}
+.align{
+text-align: justify
+}
